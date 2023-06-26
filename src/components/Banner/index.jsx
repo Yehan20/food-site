@@ -9,7 +9,7 @@ const Banner = () => {
             <Desc>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum sapiente nobis dolorum. Reiciendis
             </Desc>
-            <Button>
+            <Button to={'/foods'}>
             Order Now
             </Button>
         </Caption>

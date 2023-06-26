@@ -16,7 +16,7 @@ const SecondSection = () => {
            <Desc>
            At vero eos et accusamus et iusto odio dignissimos <br /> ducimus blanditiis praesen voluptatum deleniti.
            </Desc>
-           <Button to='/food'>
+           <Button to='/foods'>
               Order Now
            </Button>
         </Column>
