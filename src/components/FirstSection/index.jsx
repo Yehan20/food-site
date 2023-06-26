@@ -18,17 +18,17 @@ const FirstSection = () => {
 
         <Card>
             <Image src={CardImg2}/>
-            <Title>Free Transport Cost</Title>
+            <Title>30min garuntee</Title>
             <Desc>
-              Enjoy Order in a hand using the fresness of groceries
+               if order takes more than 30 mins its free
             </Desc>
         </Card>
 
             <Card>
                 <Image src={CardImg3}/>
-                <Title>Free Transport Cost</Title>
+                <Title>Secure checkout</Title>
                 <Desc>
-                Enjoy Order in a hand using the fresness of groceries
+                All payment is 100% safe 
                 </Desc>
             </Card>
         </Flex>

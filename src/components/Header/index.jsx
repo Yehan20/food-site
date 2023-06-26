@@ -7,7 +7,7 @@ import {AiOutlineClose} from 'react-icons/ai'
 import { useEffect } from 'react'
 const Header = () => {
   const[show,setShow] = useState(false);
-  window.addEventListener('change',()=>{
+  window.addEventListener('resize',()=>{
     if(window.innerWidth>767){
         setShow(true)
     };     
